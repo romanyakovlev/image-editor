@@ -19,7 +19,3 @@ python3 -m pip install -r requirements.txt
 ```bash
 python3 image_editor.py
 ```
-
-```bash
-conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cpuonly -c pytorch
-```
